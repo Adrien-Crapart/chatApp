@@ -1,4 +1,5 @@
 # chat-app
+#This app is build with an firebase DB and VueJs 2+
 
 ## Project setup
 ```
