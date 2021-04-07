@@ -1,5 +1,5 @@
 # chat-app
-#This app is build with an firebase DB and VueJs 2+
+#This app is build with an firebase DB and VueJs 2+, to write a message, you must log in.
 
 ## Project setup
 ```
